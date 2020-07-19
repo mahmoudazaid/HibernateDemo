@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mahmoudazaid/HibernateDemo">
-    <img src="images/Hibernate_logo.jpeg" alt="Logo">
+    <img src="images/hibernate_logo.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">Hibernate</h3>
