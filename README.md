@@ -40,8 +40,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Getting Started
-
 ## About The Project
 How to embed hibernate into your testing project
 
