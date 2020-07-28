@@ -36,14 +36,11 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
+
+## Getting Started
 
 ## About The Project
 How to embed hibernate into your testing project
@@ -52,3 +49,11 @@ How to embed hibernate into your testing project
 The Framework built with below main packages
 * [Maven](http://maven.apache.org/)
 * [JUnit](https://junit.org/junit5/)
+* [Hibernate](https://hibernate.org/)
+
+<!-- CONTACT -->
+## Contact
+
+Mahmoud A. Zaid - [Linkedin](https://www.linkedin.com/in/mahmoudazaid/)
+
+Project Link: [Hibernate](https://github.com/mahmoudazaid/HibernateDemo)
