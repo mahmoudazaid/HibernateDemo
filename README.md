@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mahmoudazaid/WebAutomation.Maven">
-    <img src="Images/Logo.jpg" alt="Logo">
+  <a href="https://github.com/mahmoudazaid/HibernateDemo">
+    <img src="images/hibernate_logo.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">Hibernate</h3>
